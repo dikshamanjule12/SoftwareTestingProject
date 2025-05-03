@@ -5,13 +5,11 @@ Developed comprehensive, well-documented test plans and test cases to ensure hig
 ## 📌 Table of Contents
 
 - [Project Overview](#project-overview)
-- [Folder Structure](#folder-structure)
 - [Test Plan](#test-plan)
 - [Test Cases](#test-cases)
 - [How to Use](#how-to-use)
 - [Technologies & Tools](#technologies--tools)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## 📋 Project Overview
 
@@ -70,14 +68,14 @@ Execute the relevant test cases as per the module or feature under test.
 
 Document results and report any defects using your team’s bug tracking tool.
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 Documentation: MS Word, Excel (or Google Docs/Sheets)
 
 Bug Tracking: JIRA, Bugzilla (optional)
 
 Test Management: TestRail, Zephyr (optional)
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, suggestions, and improvements are welcome!
 
 Fork the repository
