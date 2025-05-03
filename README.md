@@ -1,5 +1,5 @@
 # SoftwareTestingProject
-# 📋 Manual Testing Project — 
+# 📋 Manual Testing Project
 Developed comprehensive, well-documented test plans and test cases to ensure high-quality, reliable software across web and mobile platforms. Enabled efficient manual testing through structured, user-focused documentation.
 
 ## 📌 Table of Contents
